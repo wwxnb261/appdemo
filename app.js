@@ -11,7 +11,7 @@ const APP_KEY = '1ae292ef39471601';
 const APP_SECRET = 'k3wCpLujOOGx8nrTJEPiVPhQMO20HiQS';
 
 // 创建代理URL以解决跨域问题
-const PROXY_URL = 'https://cors-anywhere.herokuapp.com/';
+const PROXY_URL = 'https://1378704342-54uxh2q305.ap-guangzhou.tencentscf.com';
 // 最终请求URL
 const REQUEST_URL = PROXY_URL + API_URL;
 
